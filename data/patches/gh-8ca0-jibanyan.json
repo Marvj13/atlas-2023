@@ -1,0 +1,52 @@
+{
+	"id": -1,
+	"name": "Jibanyan",
+	"description": "Jibanyan is a Yo-kai from the \"Yo-kai Watch-Series\". The word \"Poes\" Is Dutch for \"cats\".",
+	"links": {},
+	"path": {
+		"193": [
+			[
+				84,
+				240
+			],
+			[
+				84,
+				250
+			],
+			[
+				142,
+				250
+			],
+			[
+				141,
+				246
+			],
+			[
+				139,
+				244
+			],
+			[
+				139,
+				241
+			],
+			[
+				84,
+				239
+			],
+			[
+				84,
+				240
+			],
+			[
+				84,
+				241
+			]
+		]
+	},
+	"center": {
+		"193": [
+			90,
+			245
+		]
+	}
+}
